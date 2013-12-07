@@ -1,0 +1,1 @@
+This document is for Djangos development, version, which can be significantly different from previous releases.
